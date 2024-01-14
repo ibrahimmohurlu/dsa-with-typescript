@@ -24,6 +24,5 @@ Big O is a way to categorize your algorithms time or memory requirements based o
 
 ## Common Big-o Complexities
 
-![Common Big-o Complexities](https://he-s3.s3.amazonaws.com/media/uploads/ece920b.png)
+![Common Big-o Complexities](https://he-s3.s3.amazonaws.com/media/uploads/ece920b.png) <br>
 [Source](https://www.hackerearth.com/practice/notes/big-o-cheatsheet-series-data-structures-and-algorithms-with-thier-complexities-1/)
-
