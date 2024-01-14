@@ -1,5 +1,5 @@
-import { expect, test, describe, it } from "bun:test";
-import linearSearch from "./index.ts";
+import { expect, describe, it } from "bun:test";
+import linearSearch from "./linear-search.ts";
 
 describe("linear-search", () => {
     const values = [3, 4, 5, 7, 8, 11, 15, 18, 19, 20];
