@@ -10,7 +10,7 @@ Big O is a way to categorize your algorithms time or memory requirements based o
 2. Constants are dropped <br>
    O(2N) -> O(N) Big O is meant to describe the growth of the algorithm. The constant eventually becomes irrelevant.<br>
 
-   ```json
+   ```
    1-) N = 1, O(10N) = 10, O(N^2) = 1
    2-) N = 5, O(10N) = 50, O(N^2) = 25
    3-) N = 100, O(10N) = 1,000, O(N^2) = 10,000 // 10x bigger
