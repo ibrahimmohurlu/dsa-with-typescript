@@ -1,6 +1,6 @@
 # Graph
 
-A <b>Graph</b> is a non-linear data structure that consists <b>Vertices (Nodes)</b> and <b>Edges (Lines,Arcs)</b>. Edges connects Vertices so Graph is set of Vertices and Edges.
+A <b>Graph</b> is a non-linear data structure that consists <b>Vertices (Nodes)</b> and <b>Edges (Lines,Arcs)</b>. Edges connects Vertices so Graph is set of Vertices and Edges.Every tree is a graph but not every graph is tree. We can think of trees as a special kind of graph. We can also use DFS(Depth First Search) and BFS(Breadth First Search) algorithms to search and traverse the graph. Because graphs can contain cycles we need to keep track of the visited Vertices (Nodes) to not stuck in cycles.
 
 ## Graph Terms:
 
